@@ -1,9 +1,0 @@
-*book
--name
--id
--borrow date
--return date
-
-*student
--name
--student number
